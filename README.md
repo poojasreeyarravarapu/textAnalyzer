@@ -1,2 +1,2 @@
 # textAnalyzer
-A text-analyser application
+A text-analyzer application
